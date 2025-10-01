@@ -1,5 +1,5 @@
 # Data-Analyst-Associate-Intern
-This repository documents my first internship experience as a Data Analyst Associate Intern, completed over a 1-month duration. 
+This repository documents demonstrates my first internship experience as a Data Analyst Associate Intern, completed over a 1-month duration. 
 
 # 📖 Internship Overview
 	•	Datasets: 6 raw datasets
