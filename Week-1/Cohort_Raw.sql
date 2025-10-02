@@ -42,6 +42,7 @@ COUNT(*) AS count FROM CohortRaw
 GROUP BY duration_category
 ORDER BY MIN(end_date - start_date);
 
+
 -- 8. Outlier detection using IQR WITH size_stats AS (
 SELECT
 PERCENTILE_CONT(0.25) WITHIN GROUP (ORDER BY size) AS q1, PERCENTILE_CONT(0.75) WITHIN GROUP (ORDER BY size) AS q3, PERCENTILE_CONT(0.75) WITHIN GROUP (ORDER BY size) -

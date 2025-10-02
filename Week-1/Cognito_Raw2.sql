@@ -9,6 +9,7 @@ FROM information_schema.columns
 WHERE table_name = 'Cognito_Raw2'
   AND table_schema = 'public';  
 
+
 SELECT
   SUM(CASE WHEN user_id = 'NULL' THEN 1 ELSE 0 END) AS null_user_id,
   SUM(CASE WHEN email = 'NULL' THEN 1 ELSE 0 END) AS null_email,

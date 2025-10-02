@@ -8,7 +8,6 @@ WHERE ctid IN (
     LIMIT 1
 );
 
-
 -- updated the missing values with valid value (text or integar format)
 UPDATE public.cleaned_cognito_raw
 SET

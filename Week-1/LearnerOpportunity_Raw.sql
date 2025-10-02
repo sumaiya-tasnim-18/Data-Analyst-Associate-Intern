@@ -7,6 +7,7 @@ COPY enrollment ( enrollment_id, learner_id, assigned_cohort, apply_date, status
 FROM 'E:\LearnerOpportunity_Raw(in).csv' DELIMITER ','
 CSV HEADER NULL AS 'NULL'
 
+
 -- Running query to check the import SELECT *
 FROM enrollment LIMIT 10;
 

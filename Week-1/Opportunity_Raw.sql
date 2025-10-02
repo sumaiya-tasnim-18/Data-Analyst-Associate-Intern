@@ -1,7 +1,6 @@
 SELECT * FROM public.opportunity_raw
 ORDER BY opportunity_id ASC;
 
-
 SELECT COUNT(*) AS total_rows
 FROM public.opportunity_raw;
 

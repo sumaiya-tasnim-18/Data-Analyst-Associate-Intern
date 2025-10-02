@@ -25,6 +25,7 @@ SELECT
     AS "Application Velocity(application/day)"
 FROM master_table;
 
+
 -- viewing Chart(s) values
 
 SELECT 

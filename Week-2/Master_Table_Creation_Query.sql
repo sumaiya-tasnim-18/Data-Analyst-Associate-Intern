@@ -155,6 +155,7 @@ SELECT 'Master Table' AS table_name, COUNT(*) AS record_count FROM Master_Table;
 
 
 -- No needed the below ones, already done ETL process in another sql.file
+
 -- -- 2. Duplicate Enrollment Check
 -- SELECT learner_id, opportunity_id, COUNT(*)
 -- FROM Master_Table

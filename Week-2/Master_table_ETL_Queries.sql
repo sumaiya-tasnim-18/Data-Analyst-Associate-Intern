@@ -79,6 +79,7 @@ SET
     assigned_cohort = CASE WHEN assigned_cohort IS NULL THEN 'Unknown' ELSE assigned_cohort END,
     status = CASE WHEN status IS NULL THEN 'Unknown' ELSE status END;
 
+
 -- Replace NULLs in integer columns with 0
 UPDATE Master_Table
 SET

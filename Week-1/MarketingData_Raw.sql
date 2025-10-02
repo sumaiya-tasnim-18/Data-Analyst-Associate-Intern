@@ -14,7 +14,6 @@ DELIMITER ','
 CSV HEADER ENCODING 'LATIN1';
 
 -- Running Query to check the Import select * from marketing_campaign limit 5;
-
 -- Datatype of Each column SELECT column_name, data_type FROM information_schema.columns
 WHERE table_name = 'marketing_campaign';
 

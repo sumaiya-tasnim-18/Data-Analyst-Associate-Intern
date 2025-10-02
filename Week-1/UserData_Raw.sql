@@ -2,7 +2,6 @@ select * from learners; SELECT COUNT(*) FROM learners;
 SELECT column_name, data_type FROM information_schema.columns WHERE
 table_name = 'learners';
 
-
 SELECT country, degree, institution, major FROM learners
 LIMIT 20;
 
