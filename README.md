@@ -7,7 +7,7 @@ This repository documents demonstrates my first internship experience as a Data 
 	•	Tools: PostgreSQL, Excel, Figma, Looker Studio
 	•	Focus Areas: "Exploratory Data Analysis (EDA)", "Extract,Transform & Load (ETL)" , "Key Performance Indicator (KPI + metrics)", Dashboard design, Business logic analysis
 
-# 📅 Weekly Breakdown
+# 📅 Weekly Tasks Breakdown
 	•	Week 1: Imported raw datasets into PostgreSQL and performed initial EDA.
 	•	Week 2: Created master table using SQL joins and carried out ETL for data cleaning.
 	•	Week 3: Exported cleaned master table to Excel, identified KPIs, metrics, filters & drill-downs, and drafted dashboard wireframe in Figma.
