@@ -17,5 +17,5 @@ This repository documents demonstrates my first internship experience as a Data 
 
 The project successfully delivered a data-driven, interactive dashboard providing actionable business insights. This internship gave me hands-on experience in data engineering, visualization, and presentation skills using real-world datasets and industry-standard tools.
 
-# Final Dashboad
+# 📉 Final Dashboard
 <img width="752" height="1112" alt="image" src="https://github.com/user-attachments/assets/4019126f-28b0-445c-ac35-26c2d8e1d66f" />
